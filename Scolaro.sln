@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{97C76E09-B8F1-427A-BC31-AB191A75ED8E}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "ScolaroOrdering", "ScolaroOrdering\ScolaroOrdering.esproj", "{2EB91173-0E00-49C0-A23E-FEE1BED920A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9148A079-D31C-48AF-ABB3-4A9C6CE1DE79}"
+	ProjectSection(SolutionItems) = preProject
+		README.MD = README.MD
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C76E09-B8F1-427A-BC31-AB191A75ED8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C76E09-B8F1-427A-BC31-AB191A75ED8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C76E09-B8F1-427A-BC31-AB191A75ED8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C76E09-B8F1-427A-BC31-AB191A75ED8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EB91173-0E00-49C0-A23E-FEE1BED920A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB91173-0E00-49C0-A23E-FEE1BED920A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB91173-0E00-49C0-A23E-FEE1BED920A7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2EB91173-0E00-49C0-A23E-FEE1BED920A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB91173-0E00-49C0-A23E-FEE1BED920A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EB91173-0E00-49C0-A23E-FEE1BED920A7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B343B82-E6CE-419D-91F2-B39A68F912E2}
+	EndGlobalSection
+EndGlobal

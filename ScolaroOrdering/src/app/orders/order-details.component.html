@@ -1,0 +1,10 @@
+<h1>Order details</h1>
+
+<div style="margin-left: 30px;">
+  <p><strong>Order ID:</strong> {{ order?.orderId }}</p>
+  <p><strong>Customer Name:</strong> {{ order?.customerName }}</p>
+  <p><strong>Product Name:</strong> {{ order?.product?.productName }}</p>
+  <p><strong>Quantity:</strong> {{ order?.quantity }}</p>
+  <p> <strong>Price:</strong> {{ (order?.quantity || 0) * (order?.product?.productPrice || 0) | currency }}</p>
+  <p><strong>Order Date:</strong> {{ order?.orderDate | date }}</p>
+</div>
