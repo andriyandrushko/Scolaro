@@ -71,6 +71,7 @@ This project consists of a backend API and a frontend application for managing o
    cd ScolaroOrdering
 3. Install dependencies:
    npm install
-4. Start the development server:
+4. The backend should be running
+5. Start the development server:
    ng serve
    This will start the frontend development server at http://localhost:4200.
