@@ -11,8 +11,7 @@ This project consists of a backend API and a frontend application for managing o
 * Swagger (for API documentation)
 
 **Setup:**
-1. Clone the repository:
-   git clone [invalid URL removed]
+1. Clone the repository
 2. Navigate to the backend directory:
    cd backend
 3. Restore NuGet packages:
@@ -67,10 +66,9 @@ This project consists of a backend API and a frontend application for managing o
 * Angular Material
 
 **Setup:**
-1. Clone the repository:
-   git clone [invalid URL removed]
+1. Make you have installed NodeJS latest stable version
 2. Navigate to the frontend directory:
-   cd frontend
+   cd ScolaroOrdering
 3. Install dependencies:
    npm install
 4. Start the development server:
